@@ -4,7 +4,24 @@
 
 ### Descripcion
 
-Este proyecto comprende una aplicacion tipo foro REST hecho en ExpressJS y el uso de MongoDB como base de datos.
+Este proyecto comprende una aplicacion para la administración de inmuebles REST hecho en ExpressJS y el uso de MongoDB como base de datos.
+
+### Iniciar ejecución del proyecto
+Se deberán ejecutar los siguientes comandos en consola.
+```
+> tsc
+> npm run start
+```
+
+Posteriormente se debe esperar a que los siguientes mensajes sean impresos.
+```
+> tsc
+> npm run start
+Server running at port 9000
+Connected to MongoDB Atlas
+```
+
+Una vez la consola informe sobre que la conexión a la base de datos se ha establecido entonces estaremos listos para el uso de los siguientes endpoints.
 
 ### Endpoints
 
